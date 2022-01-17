@@ -1,2 +1,2 @@
-Link para download do Git:https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+Segue abaixo o meu perfil no CodPen, onde eu estudo e participei de aulas na Alura.
+Link: https://codepen.io/lelejs1989/pens/public?cursor=ZD0xJm89MCZwPTEmdj01NTI4NDE4OA==
